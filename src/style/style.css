@@ -1,0 +1,96 @@
+* {
+    margin: 0px;
+    outline: 0px;
+    padding: 0px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+#logo { 
+    width: 500;
+    height: 400;
+    float: center;
+    padding:30px 0px 0px 200px;
+  }
+
+.form {
+    margin-left: 200px;
+
+}
+
+.dform {
+    margin-left: 20px;
+    margin-top: 300px;
+}
+.label {
+    display: inline-block;
+
+}
+
+.text {
+    margin-left: 5px;
+    margin-top: 10px;
+
+}
+
+.submit {
+    margin-top: 10px;
+}
+.dtitle {
+    margin-bottom: 3px;
+    margin-top: 3px;
+}
+
+.task_cell {
+    display: inline-block;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 200px;
+}
+
+.option {
+    float: right;
+    width: 300px;
+}
+
+#exit {
+    background-color: cornflowerblue;
+    height: 50px;
+    width: 7.5px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+#ulogo{
+    left: 44%;
+    top: 28%;
+    position: absolute;
+}
+
+#utitle {
+    font-weight: bold;
+    position: absolute;
+    left: 47%;
+    top: 20%;
+}
+
+.error {
+    position: absolute;
+    left: 45%;
+    top: 24%;
+}
+
+.ulabel {
+    display: inline-block;
+    width: 90px;
+}
+
+#exit_title {
+    position: absolute;
+    left: 35%;
+    top: 20%;
+}
